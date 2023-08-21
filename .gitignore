@@ -1,0 +1,5 @@
+# Files to be ignored in version control of this repo #
+*.zip
+*.tar
+*.png
+*.jpg
