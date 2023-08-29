@@ -6,3 +6,5 @@ The folders in this project contain the following:
 - **Zjet_Analysis** &rarr; Z+jet analysis (header file, main file)
 - **Ratios_Dijet_Zjet** &rarr; ratio analysis (plotting of cross section ratios, ratio of ratios - i.e. data xs ratios over MC xs ratios)
 - **Plotting** &rarr; plotting scripts (python) for cross sections, ratio plots, trigger plots, etc.
+- **H7uncs** &rarr; script for printing relative uncertainties for Herwig 7 sample
+- **Tools** &rarr; skimming and attempt to use nanoAODtools (ultimately uncertainties were handled in the big analysis scripts instead)
