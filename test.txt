@@ -1,2 +1,0 @@
-This file is to test creating files directly in the browser.
-Otherwise, use command line!
